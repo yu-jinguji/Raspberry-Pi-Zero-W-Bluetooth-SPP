@@ -1,4 +1,4 @@
-# Raspberry Pi Zero WでBluetooth SPP通信する方法
+# Raspberry Pi Zero WでGPSレシーバー(USB接続)とBluetooth SPP通信する
 ### 対応OSバージョン
 　Raspbian 8.0 (jessie)
 
